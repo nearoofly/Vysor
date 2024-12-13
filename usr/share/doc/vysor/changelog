@@ -1,0 +1,5 @@
+vysor (5.0.7) whatever; urgency=medium
+
+  * Package created with FPM.
+
+ -- Vysor Inc. <support@vysor.io>  Wed, 17 May 2023 10:15:25 -0700

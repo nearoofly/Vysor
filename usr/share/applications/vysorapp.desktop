@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Vysor
+Exec=/opt/Vysor/vysorapp %U
+Terminal=false
+Type=Application
+Icon=vysorapp
+StartupWMClass=Vysor
+Comment=A Window to Your Android
+Categories=Utility;

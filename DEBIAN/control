@@ -1,0 +1,14 @@
+Package: vysor
+Version: 5.0.7
+License: unknown
+Vendor: Vysor Inc. <support@vysor.io>
+Architecture: amd64
+Maintainer: Vysor Inc. <support@vysor.io>
+Installed-Size: 261204
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Section: default
+Priority: optional
+Homepage: https://vysor.io/
+Description: 
+  A Window to Your Android
